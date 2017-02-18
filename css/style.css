@@ -198,6 +198,9 @@ h1, h2, h3, h4, h5, h6 {
 .download-resume{
   font-size: 1.5em;
 }
+.about{
+  text-align: justify;
+}
 .fh5co-tab-wrap {
   position: relative;
 }
